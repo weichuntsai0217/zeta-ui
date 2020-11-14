@@ -1,0 +1,11 @@
+# npm 3rd party modules
+node_modules/
+
+# yarn
+*.log
+
+# MacOSX derived file
+.DS_Store
+
+#dist
+dist/
